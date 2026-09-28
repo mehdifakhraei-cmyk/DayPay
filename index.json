@@ -1,0 +1,60 @@
+{
+  "skills": [
+    {
+      "name": "animate",
+      "version": "1",
+      "files": [
+        "SKILL.md"
+      ]
+    },
+    {
+      "name": "apple-design",
+      "version": "1",
+      "files": [
+        "SKILL.md"
+      ]
+    },
+    {
+      "name": "find-animation-opportunities",
+      "version": "1",
+      "files": [
+        "SKILL.md"
+      ]
+    },
+    {
+      "name": "improve-animations",
+      "version": "1",
+      "files": [
+        "SKILL.md"
+      ]
+    },
+    {
+      "name": "mobile-native",
+      "version": "1",
+      "files": [
+        "SKILL.md"
+      ]
+    },
+    {
+      "name": "pick-ui-library",
+      "version": "1",
+      "files": [
+        "SKILL.md"
+      ]
+    },
+    {
+      "name": "prototype",
+      "version": "1",
+      "files": [
+        "SKILL.md"
+      ]
+    },
+    {
+      "name": "review-animations",
+      "version": "1",
+      "files": [
+        "SKILL.md"
+      ]
+    }
+  ]
+}
